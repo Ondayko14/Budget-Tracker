@@ -7,6 +7,8 @@ My name is Brandon. Welcome to my Budget Tracker.
 
 This is an a fully functional Budget Tracker that can be operated as a PWA or offline.
 
+![The Budget Tracker Landing Page](./images/Screenshot.png)
+
 
 ## Language(s)
 
